@@ -3,6 +3,9 @@
 ## Overview
 Crime Patrol is an advanced emergency responder application designed to provide critical support and simulate real-life emergency scenarios across four main sectors: Police, Fire, Medical, and Legal. This application enables efficient emergency management through a structured organization across various specialized divisions.
 
+![App Screenshot](Image/Img1.png)
+
+
 ## Project Structure
 
 ### Enterprises and Organizations
@@ -63,4 +66,3 @@ For better understanding below is the component diagram and the Class Diagram.
 
 ![Class Diagram](https://user-images.githubusercontent.com/114356277/206963348-2ecbd768-af11-4431-9c4b-3d02c80b3513.png)
 
-![App Screenshot](Image/Img1.png)
