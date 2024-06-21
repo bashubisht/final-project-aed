@@ -1,4 +1,4 @@
-# Crime Patrol - Emergency Response Application
+# Crime Patrol - Emergency Request Dispatch System
 
 ## Overview
 Crime Patrol is an advanced emergency responder application designed to provide critical support and simulate real-life emergency scenarios across four main sectors: Police, Fire, Medical, and Legal. This application enables efficient emergency management through a structured organization across various specialized divisions.
