@@ -1,54 +1,55 @@
-# Final-Project-AED
+# Crime Patrol - Emergency Response Application
 
-# Crime Patrol
+## Overview
+Crime Patrol is an advanced emergency responder application designed to provide critical support and simulate real-life emergency scenarios across four main sectors: Police, Fire, Medical, and Legal. This application enables efficient emergency management through a structured organization across various specialized divisions.
 
-Crime Patrol is an emergency responder application that aims to help its end users in emergency situations. The application is built to simulate real-life scenarios and is divided into four enterprises:
+## Project Structure
 
-Police,
-Fire,
-Medical,
-Legal
+### Enterprises and Organizations
+The application is structured into four key enterprises, each consisting of specific organizations dedicated to managing different aspects of emergency responses:
 
-These enterprises are then dived into 7 organisations which builds the basic structure of our application.
+- **Police**
+  - Police Operations
+  - Police Force
+  - Police Administration
+- **Fire**
+  - Fire Truck Operations
+- **Medical**
+  - Ambulance Operations
+  - Hospitals
+- **Legal**
+  - End User
 
-### The organisations are as listed below: ###
+## Key Technologies
+Crime Patrol utilizes a range of modern technologies and tools to ensure high performance, scalability, and user-friendly interaction:
 
-  Police Operations,
-  Police Force,
-  Police Adminstration,
-  Ambulance Operations,
-  Hospitals,
-  Fire Truck Operations,
-  End User
+- **Java**: Core programming language for developing application logic.
+- **Java Swing**: Framework used for creating the graphical user interface.
+- **Google Maps API**: Provides mapping capabilities for tracking and locating emergencies in real-time.
+- **Snowflake**: Database for scalable and efficient data storage and querying.
+- **AWS**: Cloud platform used for robust image storage and handling large datasets.
 
+## Features
+Crime Patrol incorporates comprehensive features to enhance user interaction and operational efficiency, including:
 
-### Database used used are: ###
+- **User Registration**: Facilitates user access to emergency services.
+- **Emergency Resource Requests**: Allows users to request immediate police, medical, or fire assistance.
+- **Email Notifications**: Automates communication during incidents.
+- **Real-Time Location Tracking**: Employs Google Maps API for accurate resource and emergency location.
+- **Background Checks**: Essential for police and legal entities to evaluate individuals.
+- **Administrative Controls**: Enables CRUD operations for system administrators.
 
-  Snowflake for storing application database.
-  AWS for storing images.
+## User Roles
+To ensure effective management, the application delineates specific roles within the system, including:
 
-  This makes the application highly scalable
-
-### Main features implemented in the application: ###
-
-  User Sign Up,
-  Emergency Resource Request,
-  Send Email Notification,
-  Locating resources/emergencies using maps(JXMapViewer),
-  Background Check on Suspects and Citizens,
-  CRUD operations by admins,
-
-### The application has 8 roles: ###
-
-  System Adminstration,
-  Emergency Police Dispatcher,
-  Patroling Police,
-  Detective,
-  Captain,
-  Emergency Medical Dispatcher,
-  Doctor,
-  Emergency Fire Dispatcher
-
+- System Administrator
+- Emergency Police Dispatcher
+- Patrolling Police
+- Detective
+- Captain
+- Emergency Medical Dispatcher
+- Doctor
+- Emergency Fire Dispatcher
 
 For better understanding below is the component diagram and the Class Diagram.
 
